@@ -1,0 +1,48 @@
+.bg-navbar{
+  background-image: linear-gradient(#09aac7, #0ff02d);
+}
+
+.image-slider{
+  height: 500px;
+}
+
+.btn-slider{
+  background-image: linear-gradient(#09aac7, #0ff02d);
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+  margin-top: 20%;
+  margin-left: 3%;
+  margin-right: 3%;
+}
+
+.bg-caption{
+  background-color: black;
+  opacity: 0.7;
+  border-radius: 20px;
+}
+
+set-image{
+  width: 800px;
+}
+
+h5{
+  color: #09aac7;
+  font-weight: bold;
+}
+
+.th-color{
+  background-color: #0ff02d;
+}
+
+.footer{
+  height: 90px;
+  background-color: black;
+}
+
+.copyright{
+  padding-top: 25px;
+}
+
+
+
